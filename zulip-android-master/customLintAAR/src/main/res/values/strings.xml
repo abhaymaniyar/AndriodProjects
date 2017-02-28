@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Custom Lint</string>
+    <string name="google_app_id">GOOGLE_APP_ID</string>
 </resources>
